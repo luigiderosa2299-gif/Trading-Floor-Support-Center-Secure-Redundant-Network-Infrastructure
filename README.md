@@ -1,6 +1,6 @@
 🏢 Trading Floor Support Center: Secure & Redundant Network Infrastructure (Cisco Packet Tracer)
 
-Objective
+📌 Objective
 The primary goal of this project is to design and implement a secure, scalable, and highly available network infrastructure for a Trading Floor Support Center employing 600 staff members. The solution covers a three-story building with six distinct departments, ensuring seamless internal communication, redundant internet connectivity, and robust cybersecurity through advanced segmentation and threat mitigation
 🛠 Technologies & Features Implemented
 
@@ -33,3 +33,5 @@ This project simulates a comprehensive enterprise-level network using Cisco Pack
 Enterprise Scaling: Managing over 120 users per department across multiple floors.
 High Availability: Designing for disaster recovery with redundant links and devices.
 Network Hardening: Protecting sensitive financial and corporate data through encryption and port-level security
+
+
